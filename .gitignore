@@ -1,0 +1,41 @@
+# =========================
+# Python / Flask
+# =========================
+
+__pycache__/
+*.py[cod]
+venv/
+venv311/
+.env
+
+# Logs
+*.log
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+
+# =========================
+# Android / Android Studio
+# =========================
+
+.gradle/
+.idea/
+.kotlin/
+local.properties
+
+**/build/
+
+*.apk
+*.aab
+*.iml
+
+
+# =========================
+# Operating System
+# =========================
+
+.DS_Store
+Thumbs.db
